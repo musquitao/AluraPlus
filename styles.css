@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white
+    
+}
+.principal{
+    background-image:url("img/Background.png") ;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 0 6em;
+}
+.p2{
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 0 6em;
+}
+.p3{
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 0 6em;
+}
+.p4{
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 0 6em;
+}
+.botão1{
+    display: block;
+    background-color:white;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    
+}
